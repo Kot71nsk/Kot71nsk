@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @Kot71nsk
+- 👀 I am interested in IT technology
+- 🌱 I am currently learning how to create neural networks.
+- 📫 You can contact me by writing to kotyara71rus@gmail.com
