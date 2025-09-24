@@ -32,6 +32,7 @@
 ## 📌 [Code_generator](https://github.com/Kot71nsk/code_generator)
 Проект по созданию системы генерации кода на базе архитектуры Code T5 (Salesforce).  
 Стек:  torch, pandas, numpy, matplotlib, datasets, transformers, json
+
 ---
 
 ## 🎯 Цель
